@@ -5,6 +5,7 @@ import RightSideNav from "../Shared/RightSideNav";
 import BrakingNews from "./BrakingNews/BrakingNews";
 
 const Home = () => {
+
     return (
         <div>
             <Header />
