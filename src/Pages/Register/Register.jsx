@@ -58,7 +58,7 @@ const Register = () => {
                     </label>
                 </div>
                 <div className="form-control mt-6">
-                    <button className="btn btn-primary">Login</button>
+                    <button className="btn btn-primary">Sign Up</button>
                 </div>
                 <p className="my-3">Already Have An Account ? pleach <Link to={"/login"} className="text-blue-600">Login</Link></p>
             </form>
